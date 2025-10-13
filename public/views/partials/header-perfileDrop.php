@@ -47,7 +47,7 @@
         </div>
     </div>
     <div class="dropdown-divider m-0"></div>
-    <a class="dropdown-item py-3 fw-500 d-flex justify-content-between" href="/converseLarry/logout.php">
+    <a class="dropdown-item py-3 fw-500 d-flex justify-content-between" href="/logout.php">
         <span class="text-danger" data-i18n="drpdwn.page-logout">Logout</span>
         <span class="d-block text-truncate text-truncate-sm">@<?= htmlspecialchars($username) ?></span>
     </a>

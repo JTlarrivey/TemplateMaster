@@ -1,3 +1,7 @@
+    <?php
+    $username = $_GET['username'] ?? 'Invitado';
+    $rol = $_GET['rol'] ?? 'user';
+    ?>
     <header class="app-header">
         <!-- Collapse icon -->
         <div class="d-flex flex-grow-1 w-100 me-auto align-items-center">
