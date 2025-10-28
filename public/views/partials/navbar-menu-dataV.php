@@ -8,7 +8,7 @@
        </a>
        <ul>
            <li class="">
-               <a href="apexareachart.html">
+               <a href="/assets/apexareachart.html">
                    <span class="nav-link-text" data-i18n="">Area Charts</span>
                </a>
            </li>
